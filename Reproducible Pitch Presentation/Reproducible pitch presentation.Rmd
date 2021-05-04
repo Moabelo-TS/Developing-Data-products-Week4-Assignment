@@ -18,7 +18,7 @@ widgets: bootstrap
 
 ## Overview
 
-The first part of this project, I have developed shiny app and deployed it on shiny server. The app shows the relationship between variables and miles per galon (MPG). We also try to find out whether automatic or manual Transmision vehicle has better MPG. The code can be found at URL: https://github.com/Moabelo-TS/Developing-Data-products-Week4-Assignment.git
+The first part of this project, I have developed shiny app and deployed it on shiny server. The link to Shiny Sever: https://tumelomoabelo.shinyapps.io/ShinyApp/. The app shows the relationship between variables and miles per galon (MPG). We also try to find out whether automatic or manual Transmision vehicle has better MPG. The code can be found at URL: https://github.com/Moabelo-TS/Developing-Data-products-Week4-Assignment.git
 
 
 ---
